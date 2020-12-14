@@ -1,0 +1,4 @@
+C:\Users\sp\source\repos\Project2\Debug\Project2.exe
+C:\Users\sp\source\repos\Project2\Debug\Project2.pdb
+C:\Users\sp\Desktop\자판기 프로그램\Debug\Project2.exe
+C:\Users\sp\Desktop\자판기 프로그램\Debug\Project2.pdb
